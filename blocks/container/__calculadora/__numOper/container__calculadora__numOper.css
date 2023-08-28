@@ -1,0 +1,39 @@
+.container__calculadora__numOper{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+  gap: 10px;
+  margin:30px 20px
+}
+
+.oper, .num, .special{
+  display: flex;
+  border: 2px solid rgb(108, 109, 108);
+  width: 5rem;
+  height: 3rem;
+  font-size: 26px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+
+}
+.oper:hover,
+.num:hover,
+.special:hover{
+  background:#305357;
+  cursor: pointer;
+}
+
+.oper{
+  background-color: orange;
+}
+.asigna{
+  background-color: brown;
+}
+.num{
+  background-color: rgb(114, 113, 116);
+}
+.special{
+  background-color: rgb(235, 115, 94);
+}

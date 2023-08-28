@@ -1,0 +1,9 @@
+.container__calculadora {
+  display         : flex;
+  align-items     : center;
+  flex-direction  : column;
+  width           : 430px;
+  height          : 550px;
+  border          : 1px solid red;
+  background-color: rgb(179, 179, 179);
+}

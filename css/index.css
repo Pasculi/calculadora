@@ -1,0 +1,6 @@
+@import url('../blocks/root/root.css');
+
+@import url('../blocks/container/__calculadora/container__calculadora.css');
+@import url('../blocks/container/__calculadora/__visor/container__calculadora__visor.css');
+@import url('../blocks/container/__calculadora/__numOper/container__calculadora__numOper.css');
+@import url('../blocks/container/container.css')
