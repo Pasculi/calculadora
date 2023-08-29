@@ -1,5 +1,12 @@
-.container__calculadora__visor{
-  width: 90%;
-  height: 5rem;
- margin-top: 4rem;
+.container__calculadora__visor {
+  width     : 88%;
+  height    : 5rem;
+  margin-top: 4rem;
+  text-align: right;
+  font-size : 4rem;
+  padding: 0 10px;
+  border-radius: 8px;
+  outline: none;
+  background-color: #FFFF;
+  overflow: hidden;
 }

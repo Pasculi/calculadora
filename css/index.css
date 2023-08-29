@@ -1,5 +1,5 @@
 @import url('../blocks/root/root.css');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
 @import url('../blocks/container/__calculadora/container__calculadora.css');
 @import url('../blocks/container/__calculadora/__visor/container__calculadora__visor.css');
 @import url('../blocks/container/__calculadora/__numOper/container__calculadora__numOper.css');

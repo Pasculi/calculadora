@@ -16,7 +16,8 @@
   align-items: center;
   justify-content: center;
   color: white;
-
+  border-radius: 8px;
+  transition: background 0.5s
 }
 .oper:hover,
 .num:hover,
@@ -32,7 +33,7 @@
   background-color: brown;
 }
 .num{
-  background-color: rgb(114, 113, 116);
+  background-color: rgb(158, 157, 158);
 }
 .special{
   background-color: rgb(235, 115, 94);
